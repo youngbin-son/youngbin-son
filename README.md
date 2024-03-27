@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=C2A6FF&height=300&section=header&text=Welcome!%20&fontSize=90)
+<p align='center'>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=capsule%20render&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Decorate%20GitHub%20Profile%20or%20any%20Repo%20like%20me!&descAlignY=51&descAlign=62"/>
+</p>
 
 ## ⚙ Skiils
 ![a](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white) 
