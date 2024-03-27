@@ -18,7 +18,7 @@
 ![f](https://img.shields.io/badge/STM32CubeIDE-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white) 
 
 
-#### 3. 자율 주행 자동차
+#### 1. 자율 주행 자동차
 
 #### 설명
 STM32와 초음파 센서를 이용한 자율 주행 자동차
@@ -28,11 +28,20 @@ STM32와 초음파 센서를 이용한 자율 주행 자동차
 <a href="https://github.com/youngbin-son/Autonomous_Car">![a](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>
 
 
-#### 4. 유사 댓글을 이용한 게임 추천
+#### 2. 유사 댓글을 이용한 게임 추천
 
 설 명 : 게임의 댓글을 이용하여 유사 댓글이 있는 다른 게임을 추천
 
 사용 기술 : 자연어 처리, PyQt
 
 <a href="https://github.com/youngbin-son/steamsavemoney">![a](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>
+
+
+#### 3. C# WinForm을 이용한 Serial 통신 앱 제작
+
+설 명 : C# WinForm을 이용한 프로그램과 Serial 통신으로 데이터 수집
+
+사용 기술 : STM32, C#, WinForm, Window SQL
+
+<a href="https://github.com/youngbin-son/CS_serial_project.git">![a](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>
 
