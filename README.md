@@ -1,5 +1,5 @@
 <p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=C2A6FF&height=300&section=header&text=Welcome!!%20&fontSize=90&animation=fadeIn&fontAlignY=38&desc=yougbin-son's%20GitHub%20Portfolio%20&descAlignY=51&descAlign=62"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=C2A6FF&height=300&section=header&text=Welcome!!%20&fontSize=90&fontColor=E9DFF2&animation=fadeIn&fontAlignY=38&desc=yougbin-son's%20GitHub%20Portfolio%20&fontColor=E9DFF2&descAlignY=51&descAlign=62"/>
 </p>
 
 ## ⚙ Skiils
