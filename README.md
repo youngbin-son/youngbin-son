@@ -20,6 +20,8 @@
 ![f](https://img.shields.io/badge/STM32CubeIDE-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white) 
 
 
+## 🖥 Project
+
 #### 1. 자율 주행 자동차
 
 설 명 : STM32와 초음파 센서를 이용한 자율 주행 자동차
