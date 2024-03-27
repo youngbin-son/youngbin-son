@@ -24,16 +24,14 @@
 
 사용 기술 : STM32, C, RTOS
 
-><a href="https://github.com/youngbin-son/Autonomous_Car">![a](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>
+<a href="https://github.com/youngbin-son/Autonomous_Car">![a](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>
 
 
-> #### 4. 유사 댓글을 이용한 게임 추천  
-> 설 명 : 게임의 댓글을 이용하여 유사 댓글이 있는 다른 게임을 추천 
->
->  기 간 : 2024. 02. 12 ~ 2024. 02. 22  
->
-> 사용기술 : 자연어 처리, PyQT  
->  
-><a href="https://github.com/youngbin-son/steamsavemoney">![a](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>
->
+#### 4. 유사 댓글을 이용한 게임 추천
+
+설 명 : 게임의 댓글을 이용하여 유사 댓글이 있는 다른 게임을 추천
+
+사용 기술 : 자연어 처리, PyQt
+
+<a href="https://github.com/youngbin-son/steamsavemoney">![a](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>
 
