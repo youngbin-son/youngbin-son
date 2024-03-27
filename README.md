@@ -26,7 +26,3 @@
 ><a href="https://github.com/youngbin-son/steamsavemoney">![a](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>
 >
 
->이게 머여
->ㄹ
->ㅓ
->ㅓ
