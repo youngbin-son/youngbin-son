@@ -22,6 +22,5 @@
 > &nbsp;&nbsp;&nbsp;설 명 : 게임의 댓글을 이용하여 유사 댓글이 있는 다른 게임을 추천  
 > &nbsp;&nbsp;&nbsp;기 간 : 2024. 02. 12 ~ 2024. 02. 22  
 >   사용기술 : 자연어 처리, PyQT  
-> &nbsp;&nbsp;&nbsp;역 할 : "프로젝트 리더"  
 >  
 ><a href="https://github.com/shinht97/steamsavemoney">![a](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>  
