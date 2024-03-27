@@ -18,6 +18,17 @@
 ![f](https://img.shields.io/badge/STM32CubeIDE-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white) 
 
 
+
+> #### 3. 자율 주행 자동차
+> 설 명 :  STM32와 초음파 센서를 이용한 자율 주행 자동차
+>
+>  기 간 : 2024. 02. 26 ~ 2024. 03. 08  
+>
+> 사용기술 : STM32, C, RTOS
+>  
+><a href="https://github.com/youngbin-son/Autonomous_Car">![a](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>
+>
+
 > #### 4. 유사 댓글을 이용한 게임 추천  
 > 설 명 : 게임의 댓글을 이용하여 유사 댓글이 있는 다른 게임을 추천 
 >
