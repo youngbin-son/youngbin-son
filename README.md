@@ -23,4 +23,5 @@
 > &nbsp;&nbsp;&nbsp;기 간 : 2024. 02. 12 ~ 2024. 02. 22  
 >   사용기술 : 자연어 처리, PyQT  
 >  
-><a href="https://github.com/shinht97/steamsavemoney">![a](https://github.com/youngbin-son/steamsavemoney)</a>  
+><a href="https://github.com/youngbin-son/steamsavemoney">![a](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>  
+>  
