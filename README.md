@@ -29,7 +29,16 @@
 
 ## 🖥 Project
 
-#### 1. 자율 주행 자동차
+#### 1. Iot Home
+
+설 명 : 아두이노와 라즈베리파이를 이용한 홈 Iot
+
+사용 기술 : Linux, C, BT통신, WIFI, SQL
+
+<a href="">![a](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>
+
+
+#### 2. 자율 주행 자동차
 
 설 명 : STM32와 초음파 센서를 이용한 자율 주행 자동차
 
@@ -38,7 +47,7 @@
 <a href="https://github.com/youngbin-son/Autonomous_Car">![a](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>
 
 
-#### 2. 유사 댓글을 이용한 게임 추천
+#### 3. 유사 댓글을 이용한 게임 추천
 
 설 명 : 게임의 댓글을 이용하여 유사 댓글이 있는 다른 게임을 추천
 
@@ -47,7 +56,7 @@
 <a href="https://github.com/youngbin-son/steamsavemoney">![a](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>
 
 
-#### 3. C# WinForm을 이용한 Serial 통신 앱 제작
+#### 4. C# WinForm을 이용한 Serial 통신 앱 제작
 
 설 명 : C# WinForm을 이용한 프로그램과 Serial 통신으로 데이터 수집
 
@@ -56,7 +65,7 @@
 <a href="https://github.com/youngbin-son/CS_serial_project.git">![a](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>
 
 
-#### 4. Beauty GAN을 이용한 화장품 미리보기 앱
+#### 5. Beauty GAN을 이용한 화장품 미리보기 앱
 
 설 명 : Beauty GAN model을 이용하여 원하는 화장을 자기 얼굴에 적용시키는 프로그램 제작
 
