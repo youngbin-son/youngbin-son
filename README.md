@@ -11,7 +11,7 @@
 ![f](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![g](https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![h](https://img.shields.io/badge/numpy-4d77cf.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![i](https://img.shields.io/badge/linux-4d77cf.svg?style=for-the-badge&logo=linux&logoColor=white)
+![i](https://img.shields.io/badge/linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=white)
 
 
 
